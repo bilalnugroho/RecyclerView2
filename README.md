@@ -8,9 +8,5 @@
 
 ***
 
-* Bilal Sapto Nugroho
-* XIIRPL5
-* 10
-* 4310/1206.070
-* SMK Telkom Malang
+* Bilal Sapto Nugroho, XIIRPL5, 10, 4310/1206.070, SMK Telkom Malang
 
